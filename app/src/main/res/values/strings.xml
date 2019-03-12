@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wifistrength</string>
+    <string name="button">Button</string>
+    <string name="click_for_signal_strength">Click for signal strength</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="the_strength_is">the strength is</string>
+</resources>
